@@ -1,8 +1,7 @@
 # Boas-vindas ao meu projeto de portfólio.
 
-![image](https://github.com/LucasTFSilva/portfolio/assets/67289108/01117557-ca40-41fa-8f47-f461e526ef25)
-![image](https://github.com/LucasTFSilva/portfolio/assets/67289108/1efc0982-31d4-4046-9fbf-e182c94fd8b7)
-
+![image](https://github.com/LucasTFSilva/portfolio/assets/67289108/2c099ae8-25c2-4e98-800d-8cd9c4072f53)
+![image](https://github.com/LucasTFSilva/portfolio/assets/67289108/ed30bd62-120d-4739-826d-79a23549f4c8)
 
 ## Ferramentas utilizadas:
 
